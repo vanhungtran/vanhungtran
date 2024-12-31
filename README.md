@@ -8,9 +8,8 @@
 
 
  
- 
 
-[![LinkedIn](linkedin1.JPG)](https://www.linkedin.com/in/lucas-t-b9836283/)
+[LinkedIn](https://www.linkedin.com/in/lucas-t-b9836283/)
 
 ---
 🚀 Ph.D. in Computational Pathology, Toxicology, Genetics, and Nutrition, I have 9 years of experience working with biomarker discovery.
