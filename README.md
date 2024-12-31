@@ -7,7 +7,7 @@
  **I'm a Biomarker Data Scientist**
 
 
-[![LinkedIn](linkedin1.JPG)](https://www.linkedin.com/in/sakilansari/)
+[![LinkedIn](linkedin1.JPG)](https://www.linkedin.com/in/lucas-t-b9836283/)
 
 
 🚀 Ph.D. in Computational Pathology, Toxicology, Genetics, and Nutrition, I have 9 years of experience working with biomarker discovery.
