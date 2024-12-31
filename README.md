@@ -14,11 +14,13 @@
 
 [![LinkedIn](linkedin1.JPG)](https://www.linkedin.com/in/lucas-t-b9836283/)
 
-
+---
 🚀 Ph.D. in Computational Pathology, Toxicology, Genetics, and Nutrition, I have 9 years of experience working with biomarker discovery.
 
-I utilized cutting-edge statistical, machine learning, and deep learning techniques to identify biomarkers for diagnosing, predicting, and treating disease. I also closely collaborated with teams of scientists, physicians, and engineers from various disciplines to develop immediately applicable concepts and solutions.
+I utilized cutting-edge statistical, machine learning, and deep learning techniques to identify biomarkers for diagnosing, predicting, and treating disease. I also closely collaborated with various disciplines' teams of scientists, physicians, and engineers to develop immediately applicable concepts and solutions.
 
+
+---
 **Languages and Tools:**
 
 
@@ -30,7 +32,7 @@ I utilized cutting-edge statistical, machine learning, and deep learning techniq
 
 
 
-
+---
 ### You can find my projects and previous work here:
 [**E-book Large Language Models -FAQs**](https://bookdown.org/tranhungydhcm/mybook/)
 
@@ -38,7 +40,7 @@ I utilized cutting-edge statistical, machine learning, and deep learning techniq
 
 
 
-
+---
 <a href="https://github.com/vanhungtran/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vanhungtran&show_icons=true&theme=radical" />
 </a>
