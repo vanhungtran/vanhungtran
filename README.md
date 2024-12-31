@@ -4,10 +4,7 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> **Hey there, I'm Lucas TRAN **
 
 
- **I'm a Biomarker Data Scientist**
-
-
- 
+ **I'm a Biomarker Data Scientist** 
 
 [LinkedIn](https://www.linkedin.com/in/lucas-t-b9836283/)
 
@@ -17,7 +14,7 @@
 I utilized cutting-edge statistical, machine learning, and deep learning techniques to identify biomarkers for diagnosing, predicting, and treating disease. I also closely collaborated with various disciplines' teams of scientists, physicians, and engineers to develop immediately applicable concepts and solutions.
 
 
-
+---
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
@@ -29,7 +26,7 @@ I utilized cutting-edge statistical, machine learning, and deep learning techniq
 
 
 
-
+---
 ### You can find my projects and previous work here:
 [**E-book Large Language Models -FAQs**](https://bookdown.org/tranhungydhcm/mybook/)
 
