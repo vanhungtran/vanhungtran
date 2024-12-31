@@ -6,11 +6,9 @@
 
  **I'm a Biomarker Data Scientist**
 
----
+
  
- <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
-</p>
+ 
 
 [![LinkedIn](linkedin1.JPG)](https://www.linkedin.com/in/lucas-t-b9836283/)
 
@@ -20,7 +18,7 @@
 I utilized cutting-edge statistical, machine learning, and deep learning techniques to identify biomarkers for diagnosing, predicting, and treating disease. I also closely collaborated with various disciplines' teams of scientists, physicians, and engineers to develop immediately applicable concepts and solutions.
 
 
----
+
 **Languages and Tools:**
 
 
@@ -32,7 +30,7 @@ I utilized cutting-edge statistical, machine learning, and deep learning techniq
 
 
 
----
+
 ### You can find my projects and previous work here:
 [**E-book Large Language Models -FAQs**](https://bookdown.org/tranhungydhcm/mybook/)
 
