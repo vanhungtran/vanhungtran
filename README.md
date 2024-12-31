@@ -10,14 +10,9 @@
 [![LinkedIn](linkedin1.JPG)](https://www.linkedin.com/in/sakilansari/)
 
 
-🚀 With a passion for transforming data into insights, I'm an MTech graduate in Machine Learning and an accomplished author. My journey spans the realms of Generative AI, NLP, Deep Learning, and Data Analytics.
+🚀 Ph.D. in Computational Pathology, Toxicology, Genetics, and Nutrition, I have 9 years of experience working with biomarker discovery.
 
-
-🔧 Proficient in building and fine-tuning Large Language Models, my expertise extends to the architecture of these models, and I have a knack for delivering optimal results through diligent fine-tuning.
-
-
-🔥 From conception to completion, I've successfully led full life-cycle development projects, always on time, on budget, and in adherence to best practices.
-
+I utilized cutting-edge statistical, machine learning, and deep learning techniques to identify biomarkers for diagnosing, predicting, and treating disease. I also closely collaborated with teams of scientists, physicians, and engineers from various disciplines to develop immediately applicable concepts and solutions.
 
 **Languages and Tools:**
 
@@ -39,7 +34,7 @@
 
 
 
-<a href="https://github.com/Sakil786/github-readme-stats">
+<a href="https://github.com/vanhungtran/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sakil786&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/vanhungtran/github-readme-stats">
