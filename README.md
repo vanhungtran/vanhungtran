@@ -4,11 +4,11 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> **Hi there, I'm Sakil Ansari**
 <!-- ### Hi there. I am Sakil Ansari👋-->
 
- **I'm a Author, Lead Data Scientist,🎓 MTech in Machine Learning,Talks about #rlhf, #generativeai, #nlppractitioner, #largelanguagemodels, and #machinelearningsolutions.**
+ **I'm a Biomarker Data Scientist**
 
 
 [![LinkedIn](linkedin1.JPG)](https://www.linkedin.com/in/sakilansari/)
-[![Medium](medium1.JPG)](https://medium.com/@sakilansari4)
+
 
 🚀 With a passion for transforming data into insights, I'm an MTech graduate in Machine Learning and an accomplished author. My journey spans the realms of Generative AI, NLP, Deep Learning, and Data Analytics.
 
@@ -18,18 +18,26 @@
 
 🔥 From conception to completion, I've successfully led full life-cycle development projects, always on time, on budget, and in adherence to best practices.
 
+
+**Languages and Tools:**
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+
+
 ### You can find my projects and previous work here:
 [**My Portoflio**](https://sakil786.github.io/devportfolio/# "**My Portoflio**")
 
 
-### Connect with me
-|  Media |  Summary |
-| ------------ | ------------ |
-| [Medium](https://sakilansari4.medium.com/ "Medium")  |   My data science blog where I write data science articles|
-| [Substack](https://sakil.substack.com/ "Substack") |  My data science blog where I write data science articles |
-| [Kaggle](https://www.kaggle.com/sakilansari "Kaggle")  | My Kaggle Notebooks  |
-| [Twitter](https://twitter.com/SakilAnsari94 "Twitter") | I share data science blogs and practical machine learning tips  |
-|[Huggingface](https://huggingface.co/Sakil "Huggingface")| I fine tune the Models,create various spaces   |
+
+
+
 
 <a href="https://github.com/Sakil786/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sakil786&show_icons=true&theme=radical" />
