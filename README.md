@@ -27,7 +27,7 @@ I utilized cutting-edge statistical, machine learning, and deep learning techniq
 
 
 ### You can find my projects and previous work here:
-[**My Portoflio**](https://sakil786.github.io/devportfolio/# "**My Portoflio**")
+[**E-book Large Language Models -FAQs**](https://bookdown.org/tranhungydhcm/mybook/)
 
 
 
