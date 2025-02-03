@@ -8,6 +8,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/lucas-t-b9836283/)
 
+
+[Updated CV](https://github.com/vanhungtran/vanhungtran/blob/main/CVLucTRAN.pdf)
+
 ---
 🚀 Ph.D. in Computational Pathology, Toxicology, Genetics, and Nutrition, I have 9 years of experience working with biomarker discovery.
 
