@@ -11,7 +11,8 @@
 
 [Updated CV](https://github.com/vanhungtran/vanhungtran/blob/main/CVLucTRAN.pdf)
 
-<img height=200 align="center" src="https://github.com/vanhungtran/vanhungtran/blob/main/CVLucTRAN-images-0.jpg)&theme=radical" />
+
+<img src="https://github.com/vanhungtran/vanhungtran/blob/main/CVLucTRAN-images-0.jpg">
 
 ---
 🚀 Ph.D. in Computational Pathology, Toxicology, Genetics, and Nutrition, I have 9 years of experience working with biomarker discovery.
