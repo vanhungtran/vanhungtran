@@ -12,7 +12,7 @@
 [Updated CV](https://github.com/vanhungtran/vanhungtran/blob/main/CVLucTRAN_01.pdf)
 
 
-<img src="https://github.com/vanhungtran/vanhungtran/blob/main/CVLucTRAN_01-images-0.jpg">
+<!---<img src="https://github.com/vanhungtran/vanhungtran/blob/main/CVLucTRAN_01-images-0.jpg">-->
 
 
 
