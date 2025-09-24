@@ -40,8 +40,8 @@ I utilized cutting-edge statistical, machine learning, and deep learning techniq
 [**E-book Large Language Models -FAQs**](https://bookdown.org/tranhungydhcm/mybook/) <br>
 [**Data Analysis Report**](https://vanhungtran.github.io/report/) <br>
 [**Rpubs**](https://rpubs.com/hung/) <br>
-[**ShinyAPP - MLFeatureselection**](https://vanhungtran.shinyapps.io/FSplus/)
-[**ShinyAPP - FDA Novel Drug Approvals 2015-2025**](https://vanhungtran.shinyapps.io/shiapp/)
+[**ShinyAPP - MLFeatureselection**](https://vanhungtran.shinyapps.io/FSplus/) <br>
+[**ShinyAPP - FDA Novel Drug Approvals 2015-2025**](https://vanhungtran.shinyapps.io/shiapp/) <br>
 
 
 
