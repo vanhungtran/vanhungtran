@@ -38,7 +38,7 @@ I utilized cutting-edge statistical, machine learning, and deep learning techniq
 ---
 ### You can find my projects and previous work here:
 [**E-book Large Language Models -FAQs**](https://bookdown.org/tranhungydhcm/mybook/) <br>
-[Data Analysis Report](https://github.com/vanhungtran/report)
+[**Data Analysis Report**](https://vanhungtran.github.io/report/)
 
 
 
