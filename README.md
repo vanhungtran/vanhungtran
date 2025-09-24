@@ -42,6 +42,7 @@ I utilized cutting-edge statistical, machine learning, and deep learning techniq
 [**Rpubs**](https://rpubs.com/hung/) <br>
 [**ShinyAPP - MLFeatureselection**](https://vanhungtran.shinyapps.io/FSplus/) <br>
 [**ShinyAPP - FDA Novel Drug Approvals 2015-2025**](https://vanhungtran.shinyapps.io/shiapp/) <br>
+[**R package - aucmat**](https://github.com/vanhungtran/aucmat) <br>
 
 
 
