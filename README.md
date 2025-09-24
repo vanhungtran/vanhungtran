@@ -6,7 +6,7 @@
 
  **I'm a Biomarker Data Scientist** 
 
-[LinkedIn](https://www.linkedin.com/in/lucas-t-b9836283/) <br>
+[LinkedIn](https://www.linkedin.com/in/lucas-t-b9836283/) 
 
 
 [Updated CV](https://github.com/vanhungtran/vanhungtran/blob/main/CVLucTRAN_01.pdf)
@@ -37,7 +37,7 @@ I utilized cutting-edge statistical, machine learning, and deep learning techniq
 
 ---
 ### You can find my projects and previous work here:
-[**E-book Large Language Models -FAQs**](https://bookdown.org/tranhungydhcm/mybook/)
+[**E-book Large Language Models -FAQs**](https://bookdown.org/tranhungydhcm/mybook/) <br>
 [Data Analysis Report](https://github.com/vanhungtran/report)
 
 
