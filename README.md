@@ -6,7 +6,7 @@
 
  **I'm a Biomarker Data Scientist** 
 
-[LinkedIn](https://www.linkedin.com/in/lucas-t-b9836283/)
+[LinkedIn](https://www.linkedin.com/in/lucas-t-b9836283/) <br>
 
 
 [Updated CV](https://github.com/vanhungtran/vanhungtran/blob/main/CVLucTRAN_01.pdf)
